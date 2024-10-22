@@ -2,9 +2,10 @@
 
 `yarn`
 
-### Add Your Vapi Public Key
+### Wait till the app is fully loaded
 
-Open `src/App.jsx` and replace the placeholder public key with your own:
+On the right side you will see a button with "CALL JULIA". You can click on it and start conversation with the AI Agent.
+Ask everything about ADA's products and services !
 
 ### Start
 
